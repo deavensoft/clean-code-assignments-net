@@ -29,5 +29,5 @@ Find the details of the assignments in the respective folders (maven modules) in
 
 
 ### Solutions
-Each folder thas is "Solution" counterpart. They contain the solutions for all assignments mentioned above. 
+Each folder has its "Solution" counterpart. They contain the solutions for all assignments mentioned above. 
 You can refer to those modules to check your solutions or to compare your solutions with the solutions provided there.
