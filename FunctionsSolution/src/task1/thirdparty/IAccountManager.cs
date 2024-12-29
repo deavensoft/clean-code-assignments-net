@@ -1,4 +1,4 @@
-namespace CleanCodeAssignments.Functions.Src.Task1.ThirdParty
+namespace CleanCodeAssignments.FunctionsSolution.Src.Task1.ThirdParty
 {
     public interface IAccountManager
     {

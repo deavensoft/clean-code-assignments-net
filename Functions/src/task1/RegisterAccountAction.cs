@@ -1,8 +1,6 @@
-using System;
-using System.Collections.Generic;
-using CleanCodeAssignments.Functions.src.Task1.ThirdParty;
+using CleanCodeAssignments.Functions.Src.Task1.ThirdParty;
 
-namespace CleanCodeAssignments.Functions.src.Task1
+namespace CleanCodeAssignments.Functions.Src.Task1
 {
     public class RegisterAccountAction
     {

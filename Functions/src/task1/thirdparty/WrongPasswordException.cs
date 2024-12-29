@@ -1,4 +1,4 @@
-namespace CleanCodeAssignments.Functions.src.Task1.ThirdParty
+namespace CleanCodeAssignments.Functions.Src.Task1.ThirdParty
 {
     public class WrongPasswordException : Exception
     {
